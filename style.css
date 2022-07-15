@@ -1,0 +1,33 @@
+* {
+    /* border: 1px solid red; */
+    overflow-x: hidden;
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  .vertical-image {
+      width: 100%;
+      max-height: 660px;
+  }
+
+  .vertical-photos {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: black
+  }
+
+  .zion-title {
+      color: rgb(255, 116, 65);
+  }
+
+  .align-text {
+      text-align: center;
+      padding: 3px;
+  }
